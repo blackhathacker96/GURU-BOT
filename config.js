@@ -47,16 +47,16 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'ᴛʜᴇ ɢᴜʀᴜ-ʙᴏᴛ'
+global.botname = 'ᴛʜᴇ FL bot'
 global.premium = 'true'
-global.packname = 'GURU┃ᴮᴼᵀ' 
+global.packname = 'fls┃ᴮᴼᵀ' 
 global.author = '@Asliguru' 
-global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
-global.dygp = 'https://chat.whatsapp.com/BibVE6tUICp3qOm2a1Ur8f'
-global.fgsc = 'https://github.com/Guru322/GURU-BOT-V1' 
-global.fgyt = 'https://youtube.com/@Asliguru'
-global.fgpyp = 'https://youtube.com/@Asliguru'
-global.fglog = 'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg' 
+global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/fl96.96\n' 
+global.dygp = 'https://chat.whatsapp.com/Ctl6mKUfRyc8CMbFxpYPby'
+global.fgsc = 'https://github.com/' 
+global.fgyt = 'https://youtube.com/'
+global.fgpyp = 'https://youtube.com/'
+global.fglog = 'https://i.imgur.com/x6Q6nBX.jpg' 
 
 
 global.wait = '*⌛ _Charging..._*\n*▰▰▰▱▱▱▱▱*'

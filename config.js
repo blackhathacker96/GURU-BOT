@@ -12,8 +12,8 @@ global.owner = [
   [''] 
 ] //Number of owners
 
-global.mods = ['917605902011','32460248586'] 
-global.prems = ['917605902011', '32460248586', '919398758484']
+global.mods = ['27733300603','32460248586'] 
+global.prems = ['27733300603', '32460248586', '919398758484']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -50,7 +50,7 @@ global.APIKeys = { // APIKey Here
 global.botname = 'ᴛʜᴇ FL bot'
 global.premium = 'true'
 global.packname = 'fls┃ᴮᴼᵀ' 
-global.author = '@Asliguru' 
+global.author = '@fl96.96' 
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/fl96.96\n' 
 global.dygp = 'https://chat.whatsapp.com/Ctl6mKUfRyc8CMbFxpYPby'
 global.fgsc = 'https://github.com/' 
